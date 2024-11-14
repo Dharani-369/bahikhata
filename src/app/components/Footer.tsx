@@ -8,10 +8,10 @@ const Footer = () => {
           &copy; {new Date().getFullYear()}{" "}
           <span className="text-black-500 font-bold">Bahi</span>
           <span className="text-red-500 font-bold">Khata</span> | Created by
-          Shivam Garg
+          Dharani sharadha
         </p>
         <div>
-          <p>Contact: +91 9634396572</p>
+          <p>Contact: +91 9100605321</p>
         </div>
       </div>
     </footer>
