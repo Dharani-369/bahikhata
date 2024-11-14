@@ -2,7 +2,7 @@ import React from 'react'
 
 const Speech = () => {
   return (
-    <div>Speech</div>
+    <div>Speech 1</div>
   )
 }
 
